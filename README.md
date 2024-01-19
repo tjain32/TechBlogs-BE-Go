@@ -1,4 +1,4 @@
-### Forum-App-Go-Backend  [![CircleCI](https://circleci.com/gh/victorsteven/Forum-App-Go-Backend.svg?style=svg)](https://circleci.com/gh/tjain32/discussion_backend)
+### Forum-App-Go-Backend  [![CircleCI]](https://circleci.com/gh/tjain32/discussion_backend)
  
 
 > This is a forum API built with Golang
@@ -27,7 +27,7 @@
 
 ### Clone
 
-- Clone this project to your local machine `https://github.com/tjain32/discussion_backend.git`
+- Clone this project to your local machine `https://github.com/tjain32/blog_backend.git`
 
 
 ### Setup
