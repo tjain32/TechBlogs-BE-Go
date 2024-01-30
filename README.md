@@ -21,7 +21,40 @@
 - [AWS](https://aws.amazon.com).
 - [Circleci](https://circleci.com).
 
+<pre>
+   
+		"/" - Home Page (GET)
 
+		// Login Route
+		"/login" -- Login Page (POST)
+
+		//Users routes
+		"/users" -- CREATE a new user
+
+		//Admin tasks
+		"/users" -- GET all users (GET)
+		"/users/:id" -- GET user by ID (GET)
+		"/users/:id" -- UPDATE user by ID (PUT)
+	 "/users/:id" -- DELETE user by ID (DELETE)
+
+		//Posts routes
+		"/posts" -- CREATE post (POST)
+		"/posts" -- GET all posts (GET)
+		"/posts/:id" -- GET post by ID (GET)
+		"/posts/:id" -- UPDATE post by ID (PUT)
+	 "/posts/:id" -- DELETE post by ID (DELETE)
+		"/user_posts/:id" -- GET posts by a user (GET)
+
+		//Like route
+		"/likes/:id" -- GET like by Id (GET)
+		"/likes/:id" -- POST a like (POST)
+		"/likes/:id" -- DELETE a like (DELETE)
+
+		//Comment routes
+		"/comments/:id" -- CREATE comment (POST)
+		"/comments/:id" -- GET comments (GET)
+		"/comments/:id" -- UPDATE comment (PUT)
+		"/comments/:id" -- DELETE comment (DELETE)</pre>
 
 ## Installations
 
