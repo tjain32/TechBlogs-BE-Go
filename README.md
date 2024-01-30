@@ -27,7 +27,7 @@
 
 ### Clone
 
-- Clone this project to your local machine `https://github.com/tjain32/blog_backend.git`
+- Clone this project to your local machine `https://github.com/tjain32/TechBlogs-BE-Go`
 
 
 ### Setup
